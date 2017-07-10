@@ -5,7 +5,7 @@ Case 1
 ------
 
 
-Você foi contratado como um arquiteto de TI e a sua principal missão é criar toda a infraestrutura para o início da operação de uma nova empresa. O nome da empresa ainda é um segredo, e o projeto é secreto e poucas pessoas sabem qual é a natureza da operação dessa ,,,.
+Você foi contratado como **arquiteto de TI** e a sua principal missão é criar toda a infraestrutura para o início da operação de uma nova empresa. O nome da empresa ainda é um segredo, e o projeto é secreto e poucas pessoas sabem qual é a natureza da operação dessa ,,,.
 
 
 Você tem apenas algumas informações para desenhar o seu projeto:
