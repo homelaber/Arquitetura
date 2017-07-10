@@ -46,7 +46,7 @@ O seu projeto será analisado por uma consultoria contratada pelo conselho e voc
 
 Leve em consideração as próximas fases do projeto, onde será necessário montar a infraestrutura que suportará a operação e o crescimento previsto.
 
-O seu prazo para o desenvolvimento do projeto e entrega do documento de projeto é de 7 dias
+O seu prazo para o desenvolvimento do projeto e entrega do documento de projeto é de 7 dias após a publicação desse post e deverá ser publicado no seu blog.
 
 Você pode escolher usar qualquer tecnologia que quiser, mas essa **tecnologia deve existir**.
 
