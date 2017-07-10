@@ -20,6 +20,11 @@ O perfil dos funcionários dessa empresa
 | Colaboradores	| 20 | 30 | 50 | 70 | 80 | 100 |
 
 
+Meses | 1 | 2 | 3 | 4 | 5 |6 
+--- | --- | ---
+Colaboradores | 20 | 30 | 50 | 70 | 80 | 100
+
+
 Você tem um **budget disponível** de **1.5MM de Reais** para essa fase do projeto.
 
 > Seu desafio é criar o projeto de infraestrutura do escritório para suportar a primeira fase do desenvolvimento do negócio.
