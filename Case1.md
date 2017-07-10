@@ -11,18 +11,18 @@ Você tem apenas algumas informações para desenhar o seu projeto:
 
 * Essa empresa iniciará suas operações com 20 funcionários em um escritório alugado por 1 ano no centro da cidade de São Paulo, um ponto estratégico para as operações da companhia. Foram alugadas duas salas em andares diferentes (10º e 12º andares) e cada sala possui 1300 mt2
 
-* A infraestrutura do escritório deverá suportar os 20 funcionários atuais e a empresa planeja chegar a 100 colaboradores nos próximos 06 meses, coincidindo então com o lançamento do negócio.
-
-O perfil dos funcionários dessa empresa
-
-| Meses | 1 | 2 | 3 | 4 | 5 | 6 |
-| :-------------: | :-------------: | :-----: |
-| Colaboradores	| 20 | 30 | 50 | 70 | 80 | 100 |
+* A infraestrutura do escritório deverá suportar os 20 funcionários atuais e a empresa planeja chegar a ** 100 colaboradores ** nos próximos 06 meses, coincidindo então com o lançamento do negócio.
 
 
-Meses | 1 | 2 | 3 | 4 | 5 |6 
---- | --- | ---
-Colaboradores | 20 | 30 | 50 | 70 | 80 | 100
+** Crescimento dos Funcionários**
+
+Mês 1 - 20 colaboradores
+Mês 2 - 30 colaboradores
+Mês 3 - 50 colaboradores
+Mês 4 - 70 colaboradores
+Mês 5 - 80 colaboradores
+Mês 6 - 100 colaboradores
+
 
 
 Você tem um **budget disponível** de **1.5MM de Reais** para essa fase do projeto.
@@ -46,7 +46,7 @@ O seu projeto será analisado por uma consultoria contratada pelo conselho e voc
 
 Leve em consideração as próximas fases do projeto, onde será necessário montar a infraestrutura que suportará a operação e o crescimento previsto.
 
-O seu prazo para o desenvolvimento do projeto é de 7 dias.
+O seu prazo para o desenvolvimento do projeto e entrega do documento de projeto é de 7 dias
 
 Você pode escolher usar qualquer tecnologia que quiser, mas essa **tecnologia deve existir**.
 
