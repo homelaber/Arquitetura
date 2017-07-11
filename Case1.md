@@ -14,7 +14,7 @@ Você tem apenas algumas informações para desenhar o seu projeto:
 * A infraestrutura do escritório deverá suportar os 20 funcionários atuais e a empresa planeja chegar a ** 100 colaboradores ** nos próximos 06 meses, coincidindo então com o lançamento do negócio.
 
 
-** Crescimento dos Funcionários**
+**Crescimento dos Funcionários**
 
 Mês 1 - 20 colaboradores
 Mês 2 - 30 colaboradores
